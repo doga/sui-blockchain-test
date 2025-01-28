@@ -1,0 +1,6 @@
+{
+  "recommendations": [
+    "mysten.move",
+    "tamasfe.even-better-toml"
+  ]
+}
